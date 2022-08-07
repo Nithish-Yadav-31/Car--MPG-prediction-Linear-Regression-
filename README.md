@@ -50,6 +50,6 @@ The problem statement is depends on **prediction algorithm**.
 
 • Use **Expolartory Data Analysis** Technique to understand and filter dataset. 
 
-• Improve the **model accuracy** over 93%
+• Improve the **model accuracy** over 83%
 
 You can find the DataSet for the Project in the repostiory.
